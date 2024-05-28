@@ -1,2 +1,2 @@
-# Eatify Screenshot :
+# Screenshot :
 ![screen](/eatify.png)
