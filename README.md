@@ -1,2 +1,2 @@
-# Eatify Screenshot : (https://eatifyy.netlify.app/)
+# Screenshot :
 ![screen](/eatify.png)
