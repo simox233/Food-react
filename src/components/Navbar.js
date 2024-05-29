@@ -14,7 +14,7 @@ const Navbar = () => {
                     <FiSearch size={5} className="bg-black text-white p-[10px] h-10 rounded-md w-10 font-bold " />
                 </div>
                     <div className="login">
-                        <button className='bg-black text-white px-5 py-1 ml-2 h-10 w-[100px] rounded-md'>Login</button>
+                        <button className='bg-black text-white px-5 py-1 ml-2 h-10 w-[100px] rounded-md'>Logout</button>
                     </div>
                 </div>
             </div>
